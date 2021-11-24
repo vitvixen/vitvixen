@@ -5,7 +5,7 @@
 -☀️Currently devoting myself to Java\
 -⚡You can contact me at violet.multifan@gmail.com or @vitvixen in Telegram\
 -💛My biggest inspiration is to prove, that women belong in IT, and I want to lead by example\
--🏵Life without challenge is just existence.\
+-🏵Life without challenge is just existence.
 
 <!--
 **vitvixen/vitvixen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
