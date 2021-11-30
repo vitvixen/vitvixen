@@ -1,5 +1,5 @@
 -✨Hi there!\
--✏️I'm trying to reach you about you cars extended warranty\
+-✏️I'm trying to reach you about your cars extended warranty\
 -☺️No, actually my name is Vita\
 -⭐️I'm a second year student in TUKE\
 -☀️Currently Learning OOP\
