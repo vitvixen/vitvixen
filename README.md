@@ -2,7 +2,7 @@
 -✏️I'm trying to reach you about you cars extended warranty\
 -☺️No, actually my name is Vita\
 -⭐️I'm a second year student in TUKE\
--☀️Currently Learning Java Swing and OOP\
+-☀️Currently Learning OOP\
 -⚡You can contact me at violet.multifan@gmail.com or @vitvixen in Telegram\
 -💛My biggest inspiration is to prove, that women belong in IT, and I want to lead by example\
 -🏵Life without challenge is just existence.
